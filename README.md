@@ -2,9 +2,8 @@
 ## Introduction
 This project provides a set of SQL queries designed to analyze e-commerce data using Google BigQuery. The goal of this project is to help data analysts gain insights into customer behavior, sales performance, and key business metrics through SQL queries executed on the Google Analytics Sample dataset.
 ### Objectives
-- Extract and analyze user behavior data on an e-commerce website.
-- Utilize Google BigQuery to write optimized and efficient SQL queries.
-- Generate detailed reports based on real-world data to support business decision-making.
+- Optimize marketing channels for better decision-making: Analyze bounce rates, traffic revenue, and session spending to allocate budgets effectively and boost conversions.
+- Enhance purchase journey & maximize order value: Improve conversion rates and use data-driven product recommendations to drive higher sales.
 ### Dataset Used
 - This project uses the Google Analytics Sample Dataset from BigQuery, which contains data from the Google Merchandise Store. namely "bigquery-public-data.google_analytics_sample.ga_sessions_2017*"
 - Data tables:
